@@ -44,9 +44,15 @@
 ### 🌸 Let’s Connect!
 
 <p align="center">
-  <a href="[https://your-portfolio-link.com](https://drive.google.com/file/d/1GQXz5yGJ4cPbApFGdTLUsH8H6rK8BVOD/view?usp=sharing)"><img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=site&logoColor=white" /></a>
-  <a href="[https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/manasvinaik/)"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ff69b4" /></a>
-  <a href="mailto:mnsvinaik@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ff69b4" /></a>
+  <a href="https://drive.google.com/file/d/1GQXz5yGJ4cPbApFGdTLUsH8H6rK8BVOD/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=about-dot-me&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/manasvinaik/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ff69b4" />
+  </a>
+  <a href="mailto:mnsvinaik@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ff69b4" />
+  </a>
 </p>
 
 ---
