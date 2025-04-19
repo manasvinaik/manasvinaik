@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://i.ibb.co/YfHdY5z/stars-banner.gif" width="100%" alt="cosmic banner"/>
-</p>
 <h1 align="center">Hi, I'm Manasvi 🦢✧</h1>
 <p align="center">
   A dreamy developer, designer, and student ❀<br>
