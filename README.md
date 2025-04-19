@@ -27,6 +27,11 @@
   <img src="https://img.shields.io/badge/C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-000000?style=for-the-badge&logo=c&logoColor=ff69b4"/>
   <img src="https://img.shields.io/badge/C++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-000000?style=for-the-badge&logo=c%2B%2B&logoColor=ff69b4"/>
   <img src="https://img.shields.io/badge/Swift&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-000000?style=for-the-badge&logo=swift&logoColor=ff69b4"/>
+  <img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=ff69b4"/>
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=ff69b4"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ff69b4"/>
+  <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=ff69b4"/>
+  <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=ff69b4"/>
 </p>
 
 ---
