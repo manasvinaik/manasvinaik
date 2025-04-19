@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=150&section=header"/>
+</div>
 <h1 align="center">Hi, I'm Manasvi 🦢✧</h1>
 <p align="center">
   A dreamy developer, designer, and student ❀<br>
