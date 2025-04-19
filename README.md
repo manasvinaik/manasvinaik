@@ -1,10 +1,8 @@
 <h1 align="center">Hi, I'm Manasvi 🦢✧</h1>
 <p align="center">
   A dreamy developer, designer, and student ❀<br>
-  I like to bring ideas to life with code and a touch of magic. 
-</p>
-<p align="center">
-  I'm a Computer Engineering college student based in India 🇮🇳  who loves to design and develop creative solutions that blend functionality with ✧ aesthetic ✧.
+  I like to bring ideas to life with code and a touch of magic.<br>
+  Currently a Computer Engineering college student based in India 🇮🇳  who loves to design and develop creative solutions that blend functionality with ✧ aesthetic ✧.
 </p>
 
 ---
@@ -25,6 +23,7 @@
   <img src="https://img.shields.io/badge/CSS3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-000000?style=for-the-badge&logo=css3&logoColor=ff69b4"/>
   <img src="https://img.shields.io/badge/C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-000000?style=for-the-badge&logo=c&logoColor=ff69b4"/>
   <img src="https://img.shields.io/badge/C++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-000000?style=for-the-badge&logo=c%2B%2B&logoColor=ff69b4"/>
+  <img src="https://img.shields.io/badge/Swift&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-000000?style=for-the-badge&logo=swift&logoColor=ff69b4"/>
 </p>
 
 ---
@@ -33,9 +32,7 @@
 
   ✧ Currently learning **Swift** & polishing UI/UX skills
 
-  ✧ Working on magical web apps, AI tools, and cozy games
-  
-  ✧ Always building sites with aesthetic vibes
+  ✧ Working on magical web apps, AI tools, and cozy games. Always building sites with aesthetic vibes
 
   ✧ Gamer at heart – into *Honkai: Star Rail*, *Wuthering Waves*, *Hogwarts Legacy*, and fantasy worlds
 
