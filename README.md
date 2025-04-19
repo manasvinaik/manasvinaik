@@ -2,7 +2,7 @@
 <p align="center">
   A dreamy developer, designer, and student ❀<br>
   I like to bring ideas to life with code and a touch of magic.<br>
-  Currently a Computer Engineering college student based in India 🇮🇳  who loves to design and develop creative solutions that blend functionality with ✧ aesthetic ✧.
+  Currently a Computer Engineering college student based in India who loves to design and develop creative solutions that blend functionality with ✧ aesthetic ✧.
 </p>
 
 ---
@@ -13,7 +13,10 @@
   <img src="https://img.shields.io/badge/Python&nbsp;&nbsp;&nbsp;&nbsp;-000000?style=for-the-badge&logo=python&logoColor=ff69b4"/>
   <img src="https://img.shields.io/badge/Java&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-000000?style=for-the-badge&logo=java&logoColor=ff69b4"/>
   <img src="https://img.shields.io/badge/JavaScript&nbsp;&nbsp;&nbsp;&nbsp;-000000?style=for-the-badge&logo=javascript&logoColor=ff69b4"/>
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=ff69b4"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=ff69b4"/>
   <img src="https://img.shields.io/badge/React&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-000000?style=for-the-badge&logo=react&logoColor=ff69b4"/>
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=ff69b4"/>
   <img src="https://img.shields.io/badge/TailwindCSS&nbsp;&nbsp;&nbsp;&nbsp;-000000?style=for-the-badge&logo=tailwindcss&logoColor=ff69b4"/>
   <img src="https://img.shields.io/badge/Material--UI&nbsp;&nbsp;&nbsp;&nbsp;-000000?style=for-the-badge&logo=mui&logoColor=ff69b4"/>
   <img src="https://img.shields.io/badge/MySQL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-000000?style=for-the-badge&logo=mysql&logoColor=ff69b4"/>
@@ -30,7 +33,7 @@
 
 ### 🌸 What I'm Up To
 
-  ✧ Currently learning **Swift** & polishing UI/UX skills
+  ✧ Currently learning **Swift** & polishing web development skills
 
   ✧ Working on magical web apps, AI tools, and cozy games. Always building sites with aesthetic vibes
 
