@@ -70,9 +70,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manasvinaik&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=000000" alt="Mana's GitHub Stats"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manasvinaik&theme=radical&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" alt="GitHub Streak"/>
-</p>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=150&section=footer"/>
 </div>
