@@ -66,11 +66,3 @@
 </p>
 
 ---
-### 🌸 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manasvinaik&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=000000" alt="Mana's GitHub Stats"/>
-</p>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=150&section=footer"/>
-</div>
