@@ -47,7 +47,7 @@
 
   ✧ Working on magical web apps, AI tools, and cozy games. Always building sites with aesthetic vibes
 
-  ✧ Gamer at heart – into *Honkai: Star Rail*, *Wuthering Waves*, *Hogwarts Legacy*, and fantasy worlds
+  ✧ Gamer at heart – into *Honkai: Star Rail*, *Detroit: Become Human*, *Hogwarts Legacy*, and others
 
 ---
 
