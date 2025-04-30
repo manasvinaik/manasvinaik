@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=ff69b4"/>
   <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=ff69b4"/>
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=ff69b4"/>
+  <img src="https://img.shields.io/badge/Electron-000000?style=for-the-badge&logo=electron&logoColor=ff69b4"/>
 </p>
 
 ---
