@@ -65,4 +65,6 @@
   </a>
 </p>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=150&section=footer"/>
+</div>
