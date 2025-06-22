@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Hi, I'm Manasvi 🦢✧</h1>
 <p align="center">
-  A dreamy developer, designer, and student ❀<br>
+  A developer, designer, and student ❀<br>
   I like to bring ideas to life with code and a touch of magic.<br>
   Currently a Computer Engineering college student based in India who loves to design and develop creative solutions that blend functionality with ✧ aesthetic ✧.
 </p>
