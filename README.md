@@ -54,7 +54,7 @@
 ### 🌸 Let’s Connect!
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1GQXz5yGJ4cPbApFGdTLUsH8H6rK8BVOD/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1SVsl76dz66GzhnQtAyaGKB28Xz3HFH7l/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=about-dot-me&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/manasvinaik/" target="_blank">
