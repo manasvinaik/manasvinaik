@@ -55,7 +55,7 @@
 
 <p align="center">
   <a href="https://manasvinaik.github.io/portfolio/" target="NEW">
-    <img src="https://img.shields.io/badge/Website-ff69b4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=ff69b4" />
   </a>
   <a href="https://drive.google.com/file/d/1SVsl76dz66GzhnQtAyaGKB28Xz3HFH7l/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=about-dot-me&logoColor=white" />
