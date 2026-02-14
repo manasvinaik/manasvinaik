@@ -45,9 +45,7 @@
   <img src="https://img.shields.io/badge/Mocha-000000?style=for-the-badge&logo=mocha&logoColor=ff69b4"/>
   <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=ff69b4"/>
   <img src="https://img.shields.io/badge/Cloudinary-000000?style=for-the-badge&logo=cloudinary&logoColor=ff69b4"/>
-  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=ff69b4"/>
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ff69b4"/>
-  <img src="https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=ff69b4"/>
 
 </p>
 
