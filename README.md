@@ -43,7 +43,7 @@
 
 ### 🌸 What I'm Up To
 
-  ✧ Currently learning **Swift** & polishing web development skills
+  ✧ Currently learning **Fluttert** & building new apps :)
 
   ✧ Working on magical web apps, AI tools, and cozy games. Always building sites with aesthetic vibes
 
