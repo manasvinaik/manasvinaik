@@ -64,16 +64,22 @@
 ### 🌸 Let’s Connect!
 
 <p align="center">
-  <a href="https://manasvinaik.github.io/portfolio/" target="NEW">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=ff69b4" />
+  <a href="https://manasvinaik.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-ff69b4?style=for-the-badge&logo=google-chrome&logoColor=000000"
+         style="border:2px solid black; border-radius:6px;" />
   </a>
+
   <a href="https://drive.google.com/file/d/1tER0ie9LzNmMF2tV5pMiVnS1TtV_9GWk/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=about-dot-me&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=about-dot-me&logoColor=000000"
+         style="border:2px solid black; border-radius:6px;" />
   </a>
+
   <a href="https://www.linkedin.com/in/manasvinaik/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ff69b4" />
+    <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=000000"
+         style="border:2px solid black; border-radius:6px;" />
   </a>
 </p>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=150&section=footer"/>
