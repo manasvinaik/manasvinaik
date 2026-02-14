@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=ff69b4"/>
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=ff69b4"/>
   <img src="https://img.shields.io/badge/Electron-000000?style=for-the-badge&logo=electron&logoColor=ff69b4"/>
-    <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=ff69b4"/>
+  <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=ff69b4"/>
   <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=ff69b4"/>
   <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=ff69b4"/>
   <img src="https://img.shields.io/badge/Selenium-000000?style=for-the-badge&logo=selenium&logoColor=ff69b4"/>
