@@ -58,7 +58,7 @@
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=ff69b4" />
   </a>
   <a href="https://drive.google.com/file/d/1tER0ie9LzNmMF2tV5pMiVnS1TtV_9GWk/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=about-dot-me&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=about-dot-me&logoColor=black" />
   </a>
   <a href="https://www.linkedin.com/in/manasvinaik/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ff69b4" />
