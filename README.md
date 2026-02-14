@@ -43,9 +43,9 @@
 
 ### 🌸 What I'm Up To
 
-  ✧ Currently learning **Fluttert** & building new apps :)
+  ✧ Currently learning **Flutter** & building new projects :)
 
-  ✧ Working on magical web apps, AI tools, and cozy games. Always building sites with aesthetic vibes
+  ✧ Working on magical web apps, AI tools, and cozy games. Always building sites with aesthetic vibes.
 
   ✧ Gamer at heart – into *Honkai: Star Rail*, *Detroit: Become Human*, *Hogwarts Legacy*, and others
 
