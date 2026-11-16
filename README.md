@@ -64,13 +64,13 @@
 ### 🌸 Let’s Connect!
 
 <p align="center">
-  <a href="https://manasvinaik.github.io/portfolio/" target="_blank">
+  <a href="https://manasvinaik.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Website-ff69b4?style=for-the-badge&logo=google-chrome&logoColor=000000"
          style="border:2px solid black; border-radius:6px;" />
   </a>
 
-  <a href="https://drive.google.com/file/d/1tER0ie9LzNmMF2tV5pMiVnS1TtV_9GWk/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=about-dot-me&logoColor=000000"
+  <a href="https://drive.google.com/file/d/1QoBdch6krJ15uFuR72qBB7JRuP3lIq-9/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-ff69b4?style=for-the-badge&logo=about-dot-me&logoColor=000000"
          style="border:2px solid black; border-radius:6px;" />
   </a>
 
